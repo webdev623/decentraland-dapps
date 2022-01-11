@@ -1,0 +1,69 @@
+{
+  "@dapps": {
+    "footer": {
+      "dropdown": {
+        "en": "Anglais",
+        "es": "Espanol",
+        "fr": "Français",
+        "ja": "Japonais",
+        "ko": "Coréen",
+        "zh": "Chinois"
+      },
+      "links": {
+        "content": "Contenu",
+        "ethics": "Code d'éthique",
+        "home": "Accueil",
+        "privacy": "Confidentialité",
+        "terms": "Conditions d'utilisation"
+      }
+    },
+    "navbar": {
+      "account": {
+        "connecting": "De liaison...",
+        "signIn": "Se connecter"
+      },
+      "menu": {
+        "avatars": "Avatars",
+        "agora": "Agora",
+        "blog": "Blog",
+        "docs": "Docs",
+        "marketplace": "Marketplace",
+        "builder": "Builder",
+        "events": "Events",
+        "dao": "DAO"
+      },
+      "wrongNetwork": {
+        "header": "Mauvais réseau",
+        "message": "Vous devez être connecté au réseau {expectedChainName} pour utiliser cette application, mais vous êtes actuellement connecté au réseau {currentChainName}."
+      }
+    },
+    "sign_in": {
+      "connect": "Relier",
+      "connected": "Connecté",
+      "connecting": "De liaison...",
+      "error": "Impossible de se connecter au portefeuille.",
+      "get_started": "Commencer",
+      "options": {
+        "desktop": "Vous pouvez utiliser l'extension {metamask_link} ou un portefeuille matériel comme {ledger_nano_link}.",
+        "mobile": "Vous pouvez utiliser des navigateurs mobiles tels que {coinbase_link} ou {imtoken_link}.",
+        "samsung": "Vous pouvez utiliser {samsung_link}."
+      },
+      "modal": {
+        "title": "Se connecter",
+        "subtitle": "Choisissez une méthode de connexion",
+        "using": {
+          "browser_extension": "Utiliser une extension de navigateur",
+          "email": "Utiliser votre email",
+          "mobile": "Utiliser votre portefeuille mobile"
+        }
+      }
+    },
+    "user_menu": {
+      "sign_in": "Se Connecter",
+      "sign_out": "Se Déconnecter",
+      "guest": "Invité",
+      "settings": "Paramètres",
+      "account": "Compte"
+    }
+  }
+}
